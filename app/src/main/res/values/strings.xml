@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MasterRecyclerViewSwipeToDelete</string>
+    <string name="app_name">Swipe To Delete Android RecyclerView</string>
+    <string name="version_name">Version Name</string>
+    <string name="version_date">Version release date</string>
+    <string name="version_code">Version Code</string>
+    <string name="version_type">Version Type</string>
 </resources>

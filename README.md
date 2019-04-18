@@ -1,4 +1,4 @@
 # Master-RecyclerView-Swipe-to-Delete
 
 
-![](swipetodelete.gif)
+<img src="swipetodelete.gif" width="200" height="300" />
